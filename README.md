@@ -6,23 +6,23 @@
 ### - Homework: Review R programming at home
 ###
 ## Lecture 2: [Đan]
-### [PDF](Lecture_02/.pdf)
-### Exercises: 
-### Homework:
+### - [PDF](Lecture_02/.pdf)
+### - Exercises: 
+### - Homework:
 ###
 ## Lecture 3: [Loi]
-### [PDF](Lecture_03/.pdf)
-### Exercises: 
-### Homework:
+### - [PDF](Lecture_03/.pdf)
+### - Exercises: 
+### - Homework:
 ###
 ## Lecture 4: [Đan]
-### [PDF](Lecture_04/.pdf)
-### Exercises: 
-### Homework:
+### - [PDF](Lecture_04/.pdf)
+### - Exercises: 
+### - Homework:
 ###
 ## Lecture 5: [Loi]
-### [PDF](Lecture_05/.pdf)
-### Exercises: 
-### Homework:
+### - [PDF](Lecture_05/.pdf)
+### - Exercises: 
+### - Homework:
 
 
