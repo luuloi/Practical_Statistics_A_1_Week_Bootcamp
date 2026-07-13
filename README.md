@@ -1,9 +1,9 @@
 # Practical Statistics: A 1-Week Bootcamp
 
 ## Lecture 1: CHUYỂN HÓA DỮ LIỆU THÀNH TRI THỨC - Vai trò của Thống kê và AI trong Khoa học Thực nghiệm [Loi]
-### [PDF](Lecture_01/.pdf)
+### [PDF](Lecture_01/Chuyen_hoa_du_lieu_thanh_tri_thuc.pdf)
 ### Exercises: Review lectures for Z-test, T-test and sample size estimation
-### Homework: Review R programming
+### Homework: Review R programming at home
 ###
 ## Lecture 2: [Đan]
 ### [PDF](Lecture_02/.pdf)
