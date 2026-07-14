@@ -6,7 +6,7 @@
 ### - Homework: Review R programming at home
 ###
 ## Lecture 2: [Đan]
-### - [PDF](Lecture_02/.pdf)
+- [Introduction to R](https://colab.research.google.com/drive/1t3DF5xZgpvEzpBWAnyT69fv5Pa6xFKhL?usp=sharing)
 ### - Exercises: 
 ### - Homework:
 ###
