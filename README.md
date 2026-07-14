@@ -7,7 +7,7 @@
 ###
 ## Lecture 2: Data manipulation, ggplot and Descriptive analyses with tidyverse and dplyr in R [Đan]
 ### - [Google Colab](https://colab.research.google.com/drive/1t3DF5xZgpvEzpBWAnyT69fv5Pa6xFKhL?usp=sharing)
-### - [DATA available on:](https://drive.google.com/file/d/1thECLvORYt8xMYPOfbNtVyrMq4CJKjIA/view?usp=drive_link)
+### - [DATA](https://drive.google.com/file/d/1thECLvORYt8xMYPOfbNtVyrMq4CJKjIA/view?usp=drive_link)
 ### - Homework:
 ###
 ## Lecture 3: Basic Plot and Control Flow in R [Loi]
