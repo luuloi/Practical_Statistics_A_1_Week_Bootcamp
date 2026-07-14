@@ -5,12 +5,12 @@
 ### - Exercises: Review lectures for Z-test, T-test and sample size estimation
 ### - Homework: Review R programming at home
 ###
-## Lecture 2: [Đan]
-### - [Introduction to R](https://colab.research.google.com/drive/1t3DF5xZgpvEzpBWAnyT69fv5Pa6xFKhL?usp=sharing)
+## Lecture 2: Data manipulation, ggplot and Descriptive analyses with tidyverse and dplyr in R [Đan]
+### - [Google Colab](https://colab.research.google.com/drive/1t3DF5xZgpvEzpBWAnyT69fv5Pa6xFKhL?usp=sharing)
 ### - [DATA available on:](https://drive.google.com/file/d/1thECLvORYt8xMYPOfbNtVyrMq4CJKjIA/view?usp=drive_link)
 ### - Homework:
 ###
-## Lecture 3: [Loi]
+## Lecture 3: Basic Plot and Control Flow in R [Loi]
 ### - [PDF](Lecture_03/.pdf)
 ### - Exercises: 
 ### - Homework:
@@ -20,7 +20,7 @@
 ### - Exercises: 
 ### - Homework:
 ###
-## Lecture 5: [Loi]
+## Lecture 5: Linear Regression and Logistic Regression [Loi]
 ### - [PDF](Lecture_05/.pdf)
 ### - Exercises: 
 ### - Homework:
