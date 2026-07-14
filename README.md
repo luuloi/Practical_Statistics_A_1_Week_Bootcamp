@@ -15,7 +15,7 @@
 ### - Exercises: 
 ### - Homework:
 ###
-## Lecture 4: [Đan]
+## Lecture 4: Hypothesis Testing: Z-test, T-test, ANOVA and paired ANOVA [Đan]
 ### - [PDF](Lecture_04/.pdf)
 ### - Exercises: 
 ### - Homework:
