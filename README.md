@@ -10,8 +10,9 @@
 ### - [DATA](https://drive.google.com/file/d/1thECLvORYt8xMYPOfbNtVyrMq4CJKjIA/view?usp=drive_link)
 ### - Homework:
 ###
-## Lecture 3: Basic Plot and Control Flow in R [Loi]
-### - [PDF](Lecture_03/.pdf)
+## Lecture 3: Control Flow and Basic Plot in R [Loi]
+### - [Google Colab 1: Control Flow and Function](https://colab.research.google.com/drive/1BB3Mxby5ppTnJvG5rISrkjOpyt81kybq?usp=sharing)
+### - [Google Colab 2: Basic Plot](https://colab.research.google.com/drive/1TyznCYpOyq5FWlasF4ld8qfXR8i5vudj?usp=sharing)
 ### - Exercises: 
 ### - Homework:
 ###
