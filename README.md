@@ -7,7 +7,7 @@
 ###
 ## Lecture 2: Data manipulation, ggplot and Descriptive analyses with tidyverse and dplyr in R [Đan]
 ### - [Google Colab](https://colab.research.google.com/drive/1t3DF5xZgpvEzpBWAnyT69fv5Pa6xFKhL?usp=sharing)
-### - [DATA](https://drive.google.com/file/d/1thECLvORYt8xMYPOfbNtVyrMq4CJKjIA/view?usp=drive_link)
+### - [DATA](Lecture_02/Osteo_data.csv)
 ### - Homework:
 ###
 ## Lecture 3: Control Flow and Basic Plot in R [Loi]
@@ -17,8 +17,9 @@
 ### - Homework:
 ###
 ## Lecture 4: Hypothesis Testing: Z-test, T-test, ANOVA and paired ANOVA [Đan]
-### - [PDF](Lecture_04/.pdf)
-### - Exercises: 
+### - [PDF](Lecture_04/Sample_size_estimation.pdf)
+### - [Google Colab: T-test and recognize Normal distribution](https://colab.research.google.com/drive/1iPGVSMq4spGZp9p_QQ27kJYj2ULSxq4D?usp=chrome_ntp)
+### - [DATA](Lecture_04/Heart_Data.csv)
 ### - Homework:
 ###
 ## Lecture 5: Linear Regression and Logistic Regression [Loi]
