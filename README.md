@@ -22,6 +22,6 @@
 ## Lecture 5: Simple Linear Regression and Logistic Regression [Loi]
 ### - [Simple Linear Regression](Lecture_05/Simple_Linear_Regression_final.pdf)
 ### - [Logistic Regression](Lecture_05/Simple_Linear_Regression_final.pdf)
-### - Homework: convert the short codes in the lecture to Google Colab
+### - Homework: Convert and Execute the short codes in the lecture to Google Colab
 
 
